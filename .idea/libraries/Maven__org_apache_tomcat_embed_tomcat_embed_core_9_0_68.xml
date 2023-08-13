@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.68">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.68/tomcat-embed-core-9.0.68.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.68/tomcat-embed-core-9.0.68-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.68/tomcat-embed-core-9.0.68-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../develop/apache-tomcat-9.0.27/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../../develop/apache-tomcat-9.0.27/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../../develop/apache-tomcat-9.0.27/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../../../develop/apache-tomcat-9.0.27/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../../../develop/apache-tomcat-9.0.27/work/Catalina/localhost/ROOT" />
+    </SOURCES>
+  </library>
+</component>
